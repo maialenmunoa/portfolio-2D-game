@@ -44,7 +44,7 @@ That's it! You're ready to explore the Developer Portfolio as a 2D Game.
 
 ## Credits 👩‍💻
 
-This project was created by [Maialen Muñoa](https://github.com/maialenmunoa). Special thanks to [JSLegendDev](https://www.example.com/) for the tutorial on Kaboom.js, which provided valuable insights and guidance in developing this game.
+This project was created by [Maialen Muñoa](https://github.com/maialenmunoa). Special thanks to [JSLegendDev](https://github.com/JSLegendDev) for the tutorial on Kaboom.js, which provided valuable insights and guidance in developing this game.
 
 
 ## Feedback and contributions
